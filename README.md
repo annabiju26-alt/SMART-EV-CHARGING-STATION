@@ -389,3 +389,4 @@ void main() {
         delay_ms(100);
     }
 }
+![image alt](https://github.com/annabiju26-alt/SMART-EV-CHARGING-STATION/blob/aacd8becc7f5ef9cbf9f5f40886cc8fec14fad7d/ev.png.jpeg)
