@@ -34,6 +34,7 @@ This project simulates an Electric Vehicle (EV) charging station with safety loc
 
 ---
 
+![image alt](https://github.com/annabiju26-alt/SMART-EV-CHARGING-STATION/blob/aacd8becc7f5ef9cbf9f5f40886cc8fec14fad7d/ev.png.jpeg)
 ##  Project Logic & State-Machine Architecture
 The firmware implements an Event-Driven Finite State Machine (FSM) using a `charge_state` control variable.
 
@@ -390,4 +391,4 @@ void main() {
     }
 }
 
-![image alt](https://github.com/annabiju26-alt/SMART-EV-CHARGING-STATION/blob/aacd8becc7f5ef9cbf9f5f40886cc8fec14fad7d/ev.png.jpeg)
+
